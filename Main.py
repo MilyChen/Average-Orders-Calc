@@ -5,7 +5,7 @@ Created on Sep 5, 2020
 '''
 import pandas as pd
 
-shoe_data = pd.read_csv("../ShopifyChallenge/rawdata.csv")
+shoe_data = pd.read_csv("../AOVCalc/rawdata.csv")
 
 print (shoe_data.head(1))  ## check first row
 
